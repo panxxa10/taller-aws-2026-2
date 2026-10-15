@@ -1,0 +1,4 @@
+boto3>=1.35
+pymongo>=4.8
+gremlinpython>=3.7
+aws-secretsmanager-caching>=1.1

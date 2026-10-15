@@ -1,0 +1,25 @@
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.*
+*.tfvars
+tfplan*
+*.tfplan
+crash.log
+
+# Secretos y llaves
+*.pem
+*.key
+.env
+.env.local
+*.local
+credentials
+
+# Python
+__pycache__/
+.venv/
+*.pyc
+
+# SO
+.DS_Store
+__MACOSX/

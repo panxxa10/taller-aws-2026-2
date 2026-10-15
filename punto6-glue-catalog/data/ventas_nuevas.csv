@@ -1,0 +1,6 @@
+id_venta,fecha,ciudad,producto,cantidad,precio_unitario
+26,2026-03-02,Bogota,Cafe,20,12.5
+27,2026-03-04,Cali,Chocolate,10,6.0
+28,2026-03-06,Medellin,Panela,30,3.2
+29,2026-03-09,Bogota,Chocolate,6,6.0
+30,2026-03-11,Cali,Cafe,18,12.5
